@@ -6,10 +6,7 @@
 
 <p align="center" width="300">
     <br/>
-    <hr/>
     <h2 align="center">About me</h2>
-    <hr/>
-    <br/>
 </p>
 
 <p align="justify">
@@ -22,10 +19,7 @@ Lastly, I am enthusiastic about exploring different flavors and dishes in food. 
 
 <p align="center" width="300">
     <br/>
-    <hr/>
     <h2 align="center">Languages  and Tools</h2>
-    <hr/>
-    <br/>
 </p>
 
 <div align="center">
@@ -46,10 +40,7 @@ Lastly, I am enthusiastic about exploring different flavors and dishes in food. 
 
 <p align="center" width="300">
     <br/>
-    <hr/>
     <h2 align="center">Connect with me</h2>
-    <hr/>
-    <br/>
 </p>
 <div align="center">
 <a title="LinkedIn" href="https://www.linkedin.com/in/davidcastrillongonzales/"><img src="assets/linkedin.svg" width="30" frameBorder="0"></a>
