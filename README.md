@@ -1,16 +1,11 @@
-
-<p align="center" width="300">
-   <h1 align="center">!Hi 👋! I'm David Castrillón</h1>
-   <p align="center" style="font-size:20px;"><strong>💻 I'm a FrontEnd developer 💻</strong></p>
-</p>
-
-<p align="center" width="300">
-    <br/>
-    <hr/>
-    <h3 align="center">About me</h3>
-    <hr/>
-    <br/>
-</p>
+<h1 align="center">!Hi 👋! I'm David Castrillón</h1>
+<br/>
+<h3 align="center">💻 I'm a FrontEnd developer 💻</h3>
+<br/>
+<hr/>
+<h3 align="center">About me</h3>
+<hr/>
+<br/>
 
 <p align="justify">
 I am passionate about programming and constantly learning about new technologies. I firmly think that knowledge belongs to everyone and for everyone, due to that I enjoy collaborative learning and teaching what I have learned in the workplace to help others grow.
@@ -20,13 +15,11 @@ I have a passion for video games, although I do not consider myself an expert an
 Lastly, I am enthusiastic about exploring different flavors and dishes in food. I believe that gastronomy is a fascinating way to learn about other cultures and places, and I enjoy trying new foods.
 </p>
 
-<p align="center" width="300">
-    <br/>
-    <hr/>
-    <h3 align="center">Languages  and Tools</h3>
-    <hr/>
-    <br/>
-</p>
+<br/>
+<hr/>
+<h3 align="center">Languages  and Tools</h3>
+<hr/>
+<br/>
 
 <div align="center">
     <a title="HTML" href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="assets/html5.svg" width="50" frameBorder="0"></a>
@@ -44,13 +37,12 @@ Lastly, I am enthusiastic about exploring different flavors and dishes in food. 
     <a title="Prettier" href="https://prettier.io/"><img src="assets/prettier.svg" width="50" frameBorder="0"></a>
 </div>
 
-<p align="center" width="300">
-    <br/>
-    <hr/>
-    <h3 align="center">Connect with me</h3>
-    <hr/>
-    <br/>
-</p>
+<br/>
+<hr/>
+<h3 align="center">Connect with me</h3>
+<hr/>
+<br/>
+
 <div align="center">
 <a title="LinkedIn" href="https://www.linkedin.com/in/davidcastrillongonzales/"><img src="assets/linkedin.svg" width="30" frameBorder="0"></a>
 <br />
