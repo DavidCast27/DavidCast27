@@ -1,12 +1,15 @@
 
 <p align="center" width="300">
    <h1 align="center">!Hi 👋! I'm David Castrillón</h1>
-   <h2 align="center">💻 I'm a FrontEnd developer 💻</h2>
+   <p align="center" style="font-size:20px;"><strong>💻 I'm a FrontEnd developer 💻</strong></p>
 </p>
 
 <p align="center" width="300">
     <br/>
-    <h2 align="center">About me</h2>
+    <hr/>
+    <h3 align="center">About me</h3>
+    <hr/>
+    <br/>
 </p>
 
 <p align="justify">
@@ -19,7 +22,10 @@ Lastly, I am enthusiastic about exploring different flavors and dishes in food. 
 
 <p align="center" width="300">
     <br/>
-    <h2 align="center">Languages  and Tools</h2>
+    <hr/>
+    <h3 align="center">Languages  and Tools</h3>
+    <hr/>
+    <br/>
 </p>
 
 <div align="center">
@@ -40,7 +46,10 @@ Lastly, I am enthusiastic about exploring different flavors and dishes in food. 
 
 <p align="center" width="300">
     <br/>
-    <h2 align="center">Connect with me</h2>
+    <hr/>
+    <h3 align="center">Connect with me</h3>
+    <hr/>
+    <br/>
 </p>
 <div align="center">
 <a title="LinkedIn" href="https://www.linkedin.com/in/davidcastrillongonzales/"><img src="assets/linkedin.svg" width="30" frameBorder="0"></a>
