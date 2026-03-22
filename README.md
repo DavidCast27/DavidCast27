@@ -1,54 +1,65 @@
-<h1 align="center">!Hi 👋! I'm David Castrillón</h1>
-<br/>
-<h3 align="center">💻 I'm a FrontEnd developer 💻</h3>
-<br/>
+<h1 align="center">Hi 👋, I'm David Castrillón</h1>
+<h3 align="center">FullStack Developer passionate about building complete web applications</h3>
+
 <hr/>
-<h3 align="center">About me</h3>
+
+<h3 align="center">About Me</h3>
 <hr/>
-<br/>
 
 <p align="justify">
-I am passionate about programming and constantly learning about new technologies. I firmly think that knowledge belongs to everyone and for everyone, due to that I enjoy collaborative learning and teaching what I have learned in the workplace to help others grow.
-
-I have a passion for video games, although I do not consider myself an expert and I do not aspire to be one. I play video games as a way to unwind, spend time with friends, and explore new games.
-
-Lastly, I am enthusiastic about exploring different flavors and dishes in food. I believe that gastronomy is a fascinating way to learn about other cultures and places, and I enjoy trying new foods.
+FullStack Developer with nearly 10 years of experience across QA, frontend, and backend, specializing in building complete web applications from architecture to user experience. I'm driven to understand the complete product to contribute technical value from a holistic perspective, constantly questioning assumptions to improve both outcomes and development processes. I naturally act as a bridge between technical and product teams, informally coordinating team members and fostering collaboration across areas like backend, infrastructure, and architecture. Outside of code, I recharge my curiosity by exploring game strategy mechanics and global culinary traditions that fuel my innovative and methodical approach.
 </p>
 
-<br/>
 <hr/>
-<h3 align="center">Languages  and Tools</h3>
-<hr/>
-<br/>
 
-<div align="center">
-    <a title="HTML" href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="assets/html5.svg" width="50" frameBorder="0"></a>
-    <a title="CSS" href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="assets/css3.svg" width="50" frameBorder="0"></a>
-    <a title="JavaScript" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="assets/javascript.svg" width="50" frameBorder="0"></a>
-    <a title="TypeScript" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="assets/typescript.svg" width="50" frameBorder="0"></a>
-    <a title="React" href="https://react.dev/"><img src="assets/react.svg" width="50" frameBorder="0"></a>
+<h3 align="center">Technical Skills</h3>
+<hr/>
+
+<div>
+  <div style="margin-bottom: 20px;">
+    <h4>Frontend</h4>
+    <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/html5.svg" alt="HTML5" width="40" style="margin-right: 10px;"></a>
+    <a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/css3.svg" alt="CSS3" width="40" style="margin-right: 10px;"></a>
+    <a title="TypeScript" href="https://www.typescriptlang.org/"><img src="assets/typescript.svg" alt="TypeScript" width="40" style="margin-right: 10px;"></a>
+    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="40" style="margin-right: 10px;"></a>
+    <a title="React" href="https://reactjs.org/"><img src="assets/react.svg" alt="React" width="40" style="margin-right: 10px;"></a>
+    <a title="Tailwind CSS" href="https://tailwindcss.com/"><img src="assets/tailwindcss.svg" alt="Tailwind CSS" width="40" style="margin-right: 10px;"></a>
+    <a title="Material UI" href="https://mui.com/"><img src="assets/mui.svg" alt="Tailwind CSS" width="40" style="margin-right: 10px;"></a>
+    <a title="Vitest" href="https://vitest.dev/"><img src="assets/vitest.svg" alt="Vitest" width="40" style="margin-right: 10px;"></a>
+  </div>
+   
+  
+  <!-- Backend -->
+  <div style="margin-bottom: 20px;">
+    <h4>Backend</h4>
+    <a title="Node.js" href="https://nodejs.org/"><img src="assets/nodejs.svg" alt="Node.js" width="40" style="margin-right: 10px;"></a>
+    <a title="Go" href="https://golang.org/"><img src="assets/go.svg" alt="Go" width="40" style="margin-right: 10px;"></a>
+    <a title="Kotlin" href="https://kotlinlang.org/"><img src="assets/kotlin.svg" alt="Kotlin" width="40" style="margin-right: 10px;"></a>
+     <a title="PostgreSQL" href="https://www.postgresql.org/"><img src="assets/postgresql.svg" alt="PostgreSQL" width="40" style="margin-right: 10px;"></a>
+     <a title="Java" href="https://www.java.com/en/"><img src="assets/java.svg" alt="Java" width="40" style="margin-right: 10px;"></a>
+  </div>
+  
+  <!-- Tools -->
+  <div style="margin-bottom: 20px;">
+    <h4>Tools</h4>
+    <a title="Git" href="https://git-scm.com/"><img src="assets/git.svg" alt="Git" width="40" style="margin-right: 10px;"></a>
+    <a title="ESLint" href="https://eslint.org/"><img src="assets/eslint.svg" alt="ESLint" width="40" style="margin-right: 10px;"></a>
+    <a title="Prettier" href="https://prettier.io/"><img src="assets/prettier.svg" alt="Prettier" width="40" style="margin-right: 10px;"></a>
+  </div>
 </div>
 
-<div align="center">
-    <a title="MUI" href="https://mui.com/"><img src="assets/mui.svg" width="50" frameBorder="0"></a>
-    <a title="Jest" href="https://jestjs.io/"><img src="assets/jest.svg" width="50" frameBorder="0"></a>
-    <a title="Git" href="https://git-scm.com/"><img src="assets/git.svg" width="50" frameBorder="0"></a>
-    <a title="Eslint" href="https://eslint.org/"><img src="assets/eslint.svg" width="50" frameBorder="0"></a>
-    <a title="Prettier" href="https://prettier.io/"><img src="assets/prettier.svg" width="50" frameBorder="0"></a>
-</div>
-
-<br/>
 <hr/>
-<h3 align="center">Connect with me</h3>
-<hr/>
-<br/>
 
-<div align="center">
-<a title="LinkedIn" href="https://www.linkedin.com/in/davidcastrillongonzales/"><img src="assets/linkedin.svg" width="30" frameBorder="0"></a>
-<br />
+<h3 align="center">Connect with Me</h3>
+<hr/>
+
+<div align="center" >
+  <a title="LinkedIn" href="https://www.linkedin.com/in/davidcastrillongonzales/"><img src="assets/linkedin.svg" alt="LinkedIn" width="35" style="margin-right: 10px;"></a>
+  <a title="GitHub" href="https://github.com/DavidCast27"><img src="assets/github.svg" alt="GitHub" width="35" style="margin-right: 10px;"></a>
+  <a title="Personal Website" href="https://castri.dev/en/"><img src="assets/website.svg" alt="Personal Website" width="35" style="margin-right: 10px;"></a>
 </div>
 
 <p align="center">
-<br />
-thanks to  <a title="simpleicons" href="https://simpleicons.org/">simpleicons</a> for icons
+  <br/>
+  Icons courtesy of <a title="svgl.app" href="https://svgl.app/">svgl.app</a>
 </p>
