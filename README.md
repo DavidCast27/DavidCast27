@@ -48,6 +48,15 @@ FullStack Developer with nearly 10 years of experience across QA, frontend, and 
   </div>
 </div>
 
+  <!-- IA Tools -->
+  <div style="margin-bottom: 20px;">
+    <h4>Tools</h4>
+    <a title="OpenCode" href="https://opencode.ai/"><img src="assets/opencode-ia.svg" alt="Open code" width="40" style="margin-right: 10px;"></a>
+    <a title="Codex" href="https://developers.openai.com/codex/cli"><img src="assets/codex-ia.svg" alt="Codex" width="40" style="margin-right: 10px;"></a>
+    <a title="ClaudeCode" href="https://claude.com/"><img src="assets/claude-ia.svg" alt="Claude code" width="40" style="margin-right: 10px;"></a>
+  </div>
+</div>
+
 <hr/>
 
 <h3 align="center">Connect with Me</h3>
